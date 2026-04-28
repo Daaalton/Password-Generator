@@ -1,5 +1,4 @@
 """ 
-@author: Alejandro Gil Gimeno
 
 This script generates a pseudo-random password of 18 characters, containing at least one lowercase letter, one uppercase letter, one digit, and one special character.
 
