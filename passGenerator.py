@@ -16,7 +16,7 @@ alphabet += [chr(i) for i in range(65, 91)]
 alphabet += [str(i) for i in range(10)]
 
 # special characters
-alphabet += ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '-', '_', '=', '+']
+alphabet += ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '-', '_', '=', '+', '~']
 
 # Generate a random password of 18 characters
 def passGenerator():
